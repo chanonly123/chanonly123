@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full-time iOS Developer | Android Kotlin Enthusiast | Backend Wizard | Gamer
+Full-time iOS Developer <a href="https://eezy.ai" target="_blank">@eezy</a> | Android Kotlin Enthusiast | Backend Wizard | Gamer | Tech advisor <a href="https://app.whatstool.business/" target="_blank">@WhatsTool</a>
 
 Reach me: chan.only.123@gmail.com
 
