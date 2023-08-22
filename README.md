@@ -7,14 +7,20 @@ Reach me: chan.only.123@gmail.com
 ## Check out my android games on play store
 
 ### Solve me free
-<a href="https://play.google.com/store/apps/details?id=com.chanonly123.wordpuzzle" target="_blank">
-  <img style="width:100px;height:100px;" src="https://github.com/chanonly123/chanonly123/blob/main/Solve%20me%20free.png?raw=true" />
-</a>
+<div style="display=flex;">
+  <a href="https://play.google.com/store/apps/details?id=com.chanonly123.wordpuzzle" target="_blank">
+    <img style="width:100px;height:100px;" src="https://github.com/chanonly123/chanonly123/blob/main/res/solve-me-free.png?raw=true" />
+  </a>
+  <img style="width:100px;height:100px;" src="https://github.com/chanonly123/chanonly123/blob/main/res/solve-me-free-qr.png?raw=true" />
+</div>
 
 ### Air Hockey 2d
-<a href="https://play.google.com/store/apps/details?id=com.chanonly123.airhockey2d" target="_blank">
-  <img style="width:100px;height:100px;" src="https://github.com/chanonly123/chanonly123/blob/main/Air%20Hockey%202d.png?raw=true" />
-</a>
+<div style="display=flex;">
+  <a href="https://play.google.com/store/apps/details?id=com.chanonly123.airhockey2d" target="_blank">
+    <img style="width:100px;height:100px;" src="https://github.com/chanonly123/chanonly123/blob/main/res/air-hockey.png?raw=true" />
+  </a>
+  <img style="width:100px;height:100px;" src="https://github.com/chanonly123/chanonly123/blob/main/res/air-hockey-qr.png?raw=true" />
+</div>
 
 ## Check out my Open-Source apps and libraries
 
@@ -27,7 +33,6 @@ MacOS app for Generating JSON classes (Template based)
 
 ### ProfileClusterView
 Fully automatic managed circular image array above UIKit.
-
 <a href="https://github.com/chanonly123/ProfileClusterView" target="_blank">
   <img style="width:50%;" src="https://github.com/chanonly123/ProfileClusterView/blob/main/ProfileClusterDemo.gif" />
 </a>
