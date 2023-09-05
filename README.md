@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-Full-time iOS Developer <a href="https://eezy.ai" target="_blank">@eezy</a> | Android Kotlin Enthusiast | Backend Wizard | Gamer | Tech advisor <a href="https://app.whatstool.business/" target="_blank">@WhatsTool</a>
+I am a Full-time iOS Developer <a href="https://eezy.ai" target="_blank">@eezy</a> | Android Kotlin Enthusiast | Love to build and play games | Backend Wizard | Tech advisor <a href="https://app.whatstool.business/" target="_blank">@WhatsTool</a>
 
 Reach me: chan.only.123@gmail.com
+
+## Tutorial blogs
+<a href="https://medium.com/@chan.only.123/create-a-simple-2d-air-hockey-game-in-ios-using-uikit-dynamics-part-1-202ee3da60f7">Create a simple 2D air hockey game in iOS using UIKit Dynamics part 1</a> 
+<br/><a href="https://medium.com/@chan.only.123/wrapping-up-boilerplate-code-part-1-interface-builder-f6180fd06feb">Wrapping up boilerplate code — part 1: Interface builder</a> 
 
 ## Check out my android games on play store
 
