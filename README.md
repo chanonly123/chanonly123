@@ -20,7 +20,7 @@ Reach me: chan.only.123@gmail.com
 
 ### Air Hockey 2d
 <div style="display=flex;">
-  <a href="https://github.com/chanonly123/chanonly123/blob/main/res/app-release-unsigned.apk?raw=true" target="_blank">
+  <a href="https://github.com/chanonly123/Air-Hockey-2d-Android/blob/main/app-debug.apk?raw=true" target="_blank">
     <img style="width:100px;height:100px;" src="https://github.com/chanonly123/chanonly123/blob/main/res/air-hockey.png?raw=true" />
   </a>
   <img style="width:100px;height:100px;" src="https://github.com/chanonly123/chanonly123/blob/main/res/air-hockey-qr.png?raw=true" />
