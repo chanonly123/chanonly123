@@ -6,9 +6,18 @@
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/swift-orange?style=for-the-badge&logo=swift&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/kotlin-mediumpurple?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/java-darkblue?style=for-the-badge&logoColor=white">
+</div>
+</p>
+
+<p>
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/html5-mediumpurple?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/css3-peru?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-lightseagreen?style=for-the-badge&logo=javascript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/typescript-peru?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/java-darkblue?style=for-the-badge&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/react-peru?style=for-the-badge&logo=react&logoColor=white">
+  
 </div>
 </p>
 
