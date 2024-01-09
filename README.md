@@ -1,10 +1,6 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&random=false&width=435&lines=Hi+Im+Chandan" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
 <img src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ3OTMwMDgsIm5iZiI6MTcwNDc5MjcwOCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA5VDA5MzE0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyOWZjODJkY2Q0YTAyOGZhNzNiOThjODIyNjk0OGExZGZmODYzMWFhY2Y5MDU2M2U3NzUwMmQ2MWEyM2FkNjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3NvOwHlMU1m5voGkPoJCbYrpBXninlr3jgtHyDDwd6w" width ="400">
-</p>>
+</p>
 
 <p>
 <div align="center">
@@ -39,6 +35,11 @@
 
 <br/>
 <br/>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&random=false&width=435&lines=Hi+Im+Chandan" alt="Typing SVG" >
+</p>
 
 I am a Full-time iOS Developer <a href="https://eezy.ai" target="_blank">@eezy</a> | Android Kotlin Enthusiast | Love to build and play games | Backend Wizard
 
@@ -122,3 +123,7 @@ Background animation of floating obects like HQ Trivia app
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
+
+<p align="center">
+<img src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ3OTQwODcsIm5iZiI6MTcwNDc5Mzc4NywicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA5VDA5NDk0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2NTk4YmIxNmNkZWM5NWEzMjM2MmYwNDg4Y2QxY2Q0MWMwZTAyNTRjZWEyZDQxNGQ3NGRiNWUzZWZkOGFmZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2a0GUEtKiPj8m5lfuvRrjdSZIR-xnlG6PN5DCTprjMA" width="400">
+</p>
