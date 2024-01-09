@@ -68,7 +68,7 @@ Reach me: chan.only.123@gmail.com
   <img style="width:100px;height:100px;" src="https://github.com/chanonly123/chanonly123/blob/main/res/air-hockey-2d-qr.png?raw=true" />
 </div>
 
-## Check out my Open-Source apps and libraries
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="25" height="25" /> Check out my Open-Source apps and libraries
 
 ### Json-Model-Generator
 MacOS app for Generating JSON classes (Template based)
@@ -122,7 +122,7 @@ Background animation of floating obects like HQ Trivia app
 </a>
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> Thanks for Visiting
 
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ3OTQwODcsIm5iZiI6MTcwNDc5Mzc4NywicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA5VDA5NDk0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2NTk4YmIxNmNkZWM5NWEzMjM2MmYwNDg4Y2QxY2Q0MWMwZTAyNTRjZWEyZDQxNGQ3NGRiNWUzZWZkOGFmZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2a0GUEtKiPj8m5lfuvRrjdSZIR-xnlG6PN5DCTprjMA" width="400">
