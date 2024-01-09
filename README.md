@@ -49,8 +49,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&random=false&width=435&lines=Hi+Im+Chandan" alt="Typing SVG" >
 </p>
-
-I am a Full-time iOS Developer <a href="https://eezy.ai" target="_blank">@eezy</a> | Android Kotlin Enthusiast | Love to build and play games | Backend Wizard
+    
+<br/>
+    
+I am a Full-time iOS Developer <a href="https://bolt.earth" target="_blank">@bolt.earth</a> | ex iOS Developer <a href="https://eezy.ai" target="_blank">@eezy</a> | Android Kotlin Enthusiast | Love to build and play games | Backend Wizard
 
 Reach me: chan.only.123@gmail.com
 
