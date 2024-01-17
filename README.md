@@ -56,6 +56,8 @@ I am a Full-time iOS Developer <a href="https://bolt.earth" target="_blank">@bol
 
 Reach me: chan.only.123@gmail.com
 
+## Checkout my <a href="https://chanonly123.github.io/resume/">Online resume</a>
+
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Tutorial blogs
 <a href="https://medium.com/@chan.only.123/create-a-simple-2d-air-hockey-game-in-ios-using-uikit-dynamics-part-1-202ee3da60f7">Create a simple 2D air hockey game in iOS using UIKit Dynamics part 1</a> 
 <br/><a href="https://medium.com/@chan.only.123/wrapping-up-boilerplate-code-part-1-interface-builder-f6180fd06feb">Wrapping up boilerplate code — part 1: Interface builder</a> 
