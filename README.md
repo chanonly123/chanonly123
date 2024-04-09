@@ -64,6 +64,7 @@ Reach me: chan.only.123@gmail.com
 <br /><a href="https://medium.com/@chan.only.123/create-a-simple-2d-air-hockey-game-in-ios-using-uikit-dynamics-part-1-202ee3da60f7">Create a simple 2D air hockey game in iOS using UIKit Dynamics part 1</a> 
 <br/><a href="https://medium.com/@chan.only.123/wrapping-up-boilerplate-code-part-1-interface-builder-f6180fd06feb">Wrapping up boilerplate code — part 1: Interface builder</a> 
 <br/><a href="https://medium.com/@chan.only.123/quick-swiftui-previews-exploring-leaf-ui-modules-with-spm-fda1cc0bcf0f">Turbocharged SwiftUI Previews: Exploring Modularization with SPM</a> 
+<br/><a href="https://medium.com/@chan.only.123/swiftui-text-things-you-can-do-557a2a10e260">SwiftUI Text — things you can do</a> 
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> Check out my android games on play store
 
