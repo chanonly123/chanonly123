@@ -52,7 +52,7 @@
     
 <br/>
     
-I am a Full-time iOS Developer <a href="https://www.globallogic.com/in/" target="_blank">@GlobalLogic</a> | ex <a href="https://bolt.earth" target="_blank">@bolt.earth</a> | ex <a href="https://eezy.ai" target="_blank">@eezy</a> | ex <a href="" target="_blank">@Opentalk</a> | Android Kotlin Enthusiast | Love to build and play games | Backend Wizard
+I am a Full-time iOS Developer <a href="https://www.globallogic.com/in/" target="_blank">@GlobalLogic</a> | ex <a href="https://bolt.earth" target="_blank">@bolt.earth</a> | ex <a href="https://eezy.ai" target="_blank">@eezy</a> | ex <a href="" target="_blank">@Opentalk</a> | Android Kotlin Enthusiast | Love to build and play games | Backend Wizard | Juce c++ |
 
 Reach me: chan.only.123@gmail.com
 
