@@ -17,7 +17,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-lightseagreen?style=for-the-badge&logo=javascript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/typescript-peru?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/react-peru?style=for-the-badge&logo=react&logoColor=white">
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/JUCE-472b2c?style=for-the-badge&logo=JUCE&logoColor=green">
 </div>
 </p>
 
@@ -52,7 +52,7 @@
     
 <br/>
     
-I am a Full-time iOS Developer <a href="https://www.globallogic.com/in/" target="_blank">@GlobalLogic</a> | ex <a href="https://bolt.earth" target="_blank">@bolt.earth</a> | ex <a href="https://eezy.ai" target="_blank">@eezy</a> | ex <a href="" target="_blank">@Opentalk</a> | Android Kotlin Enthusiast | Love to build and play games | Backend Wizard | Juce c++ |
+I am a Full-time iOS Developer <a href="https://www.globallogic.com/in/" target="_blank">@GlobalLogic</a> | ex <a href="https://bolt.earth" target="_blank">@bolt.earth</a> | ex <a href="https://eezy.ai" target="_blank">@eezy</a> | ex <a href="" target="_blank">@Opentalk</a> | Android Kotlin Enthusiast | Love to build and play games | Backend Wizard | JUCE C++ Audio |
 
 Reach me: chan.only.123@gmail.com
 
