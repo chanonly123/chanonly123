@@ -52,7 +52,16 @@
     
 <br/>
     
-I am a Full-time iOS Developer <a href="https://www.globallogic.com/in/" target="_blank">@GlobalLogic</a> | ex <a href="https://bolt.earth" target="_blank">@bolt.earth</a> | ex <a href="https://eezy.ai" target="_blank">@eezy</a> | ex <a href="" target="_blank">@Opentalk</a> | Android Kotlin Enthusiast | Love to build and play games | Backend Wizard | JUCE C++ Audio |
+I am a Full-time iOS Developer <a href="https://www.globallogic.com/in/" target="_blank">@GlobalLogic</a> | ex <a href="https://bolt.earth" target="_blank">@bolt.earth</a> | ex <a href="https://eezy.ai" target="_blank">@eezy</a> | ex <a href="" target="_blank">@Opentalk</a> | Android Kotlin Enthusiast | Love to build and play games | Backend Wizard | JUCE C++ Audio | Flutter
+
+### Backstory
+Ever since I got my first computer in the 7th standard, I’ve been captivated by the world of software and games. My curiosity about how these incredible tools and experiences are created led me down the path of learning C and C++ and eventually choosing computer science for my higher studies.
+
+One of my proudest moments was developing a 2D air hockey game completely from scratch—no third-party engine, just pure code. I handled everything from motion to collision detection and post-collision physics using vector math, which was a great challenge and a lot of fun.
+
+In my early career, I had the opportunity to work at a few startups, diving deep into mobile application development. Over the years, I’ve developed more than 15 apps from the ground up, each one teaching me something new and pushing me to refine my skills.
+
+I’m also an active contributor on GitHub, and it’s always rewarding to see others find value in the tools and code I share.
 
 Reach me: chan.only.123@gmail.com
 
