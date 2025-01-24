@@ -59,7 +59,9 @@ Ever since I got my first computer in the 7th standard, I’ve been captivated b
 
 One of my proudest moments was developing a 2D air hockey game completely from scratch—no third-party engine, just pure code. I handled everything from motion to collision detection and post-collision physics using vector math, which was a great challenge and a lot of fun.
 
-In my early career, I had the opportunity to work at a few startups, diving deep into mobile application development. Over the years, I’ve developed more than 15 apps from the ground up, each one teaching me something new and pushing me to refine my skills.
+In my early career, I had the opportunity to work at a few startups, diving deep into mobile application development with a specialization in Swift. Over the years, I’ve developed more than 15 apps from the ground up, each one teaching me something new and pushing me to refine my skills.
+
+Plus, I've also worked with JUCE for audio development using C++ with Flutter.
 
 I’m also an active contributor on GitHub, and it’s always rewarding to see others find value in the tools and code I share.
 
